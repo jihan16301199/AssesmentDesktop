@@ -13,3 +13,4 @@ export const environment = {
 
 // ng build --base-href="/finjet/" --deploy-url="/finjet/"
 // ng build --base-href="/finjetcbplc/" --deploy-url="/finjetcbplc/"
+// ng b --output-path docs --base-href /AssesmentDesktop/
